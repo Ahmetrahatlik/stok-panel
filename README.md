@@ -6,7 +6,7 @@
 
 ![CI](https://github.com/Ahmetrahatlik/stok-panel/actions/workflows/ci.yml/badge.svg)
 
-**Canlı demo:** https://stok-panel.onrender.com — giriş: `demo` / `demo1234`. Ücretsiz sunucu uykudaysa ilk açılış ~50 saniye sürer.
+**Canlı demo:** https://stok-panel-7p4r.onrender.com — giriş: `demo` / `demo1234`. Ücretsiz sunucu uykudaysa ilk açılış ~50 saniye sürer.
 
 ## Özellikler
 
